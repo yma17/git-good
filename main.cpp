@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 			// cout << add(num1, num2) << endl;
 			break;
 		case '-':
-			// cout << subtract(num1, num2) << endl;
+			cout << subtract(num1, num2) << endl;
 			break;
 		case 'x':
 			// cout << multiply(num1, num2) << endl;
