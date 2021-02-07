@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
 
 	switch (op) {
 		case '+':
-			// cout << add(num1, num2) << endl;
+			cout << add(num1, num2) << endl;
 			break;
 		case '-':
 			// cout << subtract(num1, num2) << endl;
